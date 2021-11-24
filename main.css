@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(245, 238, 238);
+    margin: 0 10%;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgb(87, 177, 220);
+    margin-top: 30px;
+}

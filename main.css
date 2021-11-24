@@ -12,3 +12,8 @@ h1 {
     border-bottom: 1px solid rgb(87, 177, 220);
     margin-top: 30px;
 }
+
+h2 {
+    color: rgb(209, 99, 60);
+    font-size: 1em;
+}

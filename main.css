@@ -19,7 +19,7 @@ h2 {
 }
 
 footer {
-    border-top: 1px solid #57b1dc;
+    border-top: 1px solid rgb(87, 177, 220);
     text-align: center;
     padding-top: 1em;
 }
@@ -29,4 +29,8 @@ footer img {
     height: 40px;
     margin-left: .5em;
     margin-right: .5em;
+}
+
+img {
+	max-width: 100%;
 }
